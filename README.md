@@ -3,9 +3,23 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm Noh Ki-moon, who always learns in an enterprising manner, is considerate, and does his best in everything. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HI ROO </div>     
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> The biggest turning point in my life was at the age of 20. When my family suddenly became difficult and a crisis I had never felt in school was in front of me, I changed all my attitudes and acted aggressively to get out of this crisis. 
+
+First, I applied to all the job openings that were posted because my pocket money was cut off right away. 
+Luckily, about 10 owners interviewed me, and among them, I was hired and worked for Yupgi Tteokbokki.
+I worked for more than a month, but I was inexperienced, and the newcomer who came in with me became even better at work. 
+In this process, I quit because my boss recommended me to quit. This was the second crisis in my life. 
+
+Through this, I will reflect on myself more... </div>     
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 항상 진취적인 자세로 배우며, 모든일에 최선을 다하는 노기문입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저의 인생의 최대 변환점은 20살이였습니다. 집안이 갑자기 어려워지며 학창시절때에는 못느꼈던  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저의 인생의 최대 변환점은 20살이었습니다. 집안이 갑자기 어려워지며 학창 시절 때에는 못 느꼈던 위기가 눈앞으로 찾아오자, 제 모든 태도를 바꾸며 이 위기를 벗어나기 위해 진취적으로 행동하였습니다. 
+
+첫째, 당장 용돈이 끊겼기에 저는 올라와 있는 모든 알바 모집 공고에 지원하였습니다. 
+운이 좋게 약 10분의 사장님께서 면접을 봐주셨고  그중 엽기 떡볶이에 채용되어 근무하였습니다.
+한 달 넘게 일을 하였지만 저는 미숙하였고, 저와 같이 들어온 신입은 더욱더 일을 잘하게 되었습니다. 
+이 과정에서 저는 사장님께서 퇴사를 권유하셔 퇴사하게 되었습니다. 이것이 제 인생에서 두 번째 위기였습니다. 
+
+이를 통해 저는 더욱더 반성하며...  </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
