@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm Noh Ki-moon, always learning in an enterprising manner, and doing my best in everything. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HI ROO </div>     
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI ROO </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 항상 진취적인 자세로 배우며, 모든일에 최선을 다하는 노기문입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HI ROO </div> 
     </div>
     <div style="text-align: left;">
