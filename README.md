@@ -2,10 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee70ff,100:486dfe&height=240&text=@kingki_moooon&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm Noh Ki-moon, always learning in an enterprising manner, and doing my best in everything. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm Noh Ki-moon, who always learns in an enterprising manner, is considerate, and does his best in everything. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HI ROO </div>     
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 항상 진취적인 자세로 배우며, 모든일에 최선을 다하는 노기문입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HI ROO </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저의 인생의 최대 변환점은 20살이였습니다. 집안이 갑자기 어려워지며 학창시절때에는 못느꼈던  </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
