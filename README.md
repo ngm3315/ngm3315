@@ -14,7 +14,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/kingki_moooon/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kingki_moooon/"> </a>
+    <div align= "center"> <a href=https://www.instagram.com/yess.kimo_/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yess.kimo_/"> </a>
          <a href=https://blog.naver.com/ngm3315> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ngm3315"> </a>
          <a href=https://www.notion.so/Noh-Ki-Moon-s-Website-11f9e719272680dca19cd316ce7a4a87> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Noh-Ki-Moon-s-Website-11f9e719272680dca19cd316ce7a4a87"> </a>
           </div>  <br> 
