@@ -1,4 +1,4 @@
-# Hi there, I'm [당신의 이름/닉네임] 👋
+# Hi there, I'm Kimoon! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20My%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=C/C++%20&%20Python%20Developer&descAlignY=51&descAlign=62" />
@@ -52,7 +52,7 @@
   </a>
 </div>
 
-*(⚠️ `YOUR_GITHUB_USERNAME` 부분을 본인의 깃허브 아이디로 변경해서 사용하세요!)*
+
 
 ---
 
