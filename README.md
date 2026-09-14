@@ -61,7 +61,7 @@
 ### 💻 C / C++ 기반 프로젝트
 | 프로젝트명 | 설명 | 기술 스택 | 링크 |
 |---|---|---|---|
-| **🏦 Bank Management System** | 콘솔 기반 은행 계좌 관리 및 입출금 시스템 (OOP 연습) | `C++` | [Go to Repo]([#](https://github.com/ngm3315/ROKA_DCC_CNOC_B2/blob/main/README.md)) |
+| **🏦 Bank Management System** | 콘솔 기반 은행 계좌 관리 및 입출금 시스템 (OOP 연습) | `C++` | [Go to Repo](https://github.com/ngm3315/ROKA_DCC_CNOC_B2/blob/main/README.md) |
 | **🕹️ [프로젝트 이름]** | [간단한 설명 작성] | `C`, `Linux` | [Go to Repo](#) |
 
 ### 🐍 Python 기반 프로젝트
