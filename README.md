@@ -78,6 +78,6 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="mailto:당신의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://velog.io/@당신의블로그아이디"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="mailto:2025402040@kw.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://velog.io/@ngm3315"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 </div>
