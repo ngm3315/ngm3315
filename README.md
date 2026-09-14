@@ -35,19 +35,19 @@
 
 <div align="center">
   <!-- 깃허브 스트릭 (연속 커밋 기록) -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ngm3315">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br>
   <!-- 깃허브 스탯 (언어 사용량 및 등급) -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ngm3315">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
 </div>
 <br>
 <div align="center">
   <!-- 가장 많이 사용하는 언어 비율 -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ngm3315">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
